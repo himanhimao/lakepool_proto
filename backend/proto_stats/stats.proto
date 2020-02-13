@@ -1,5 +1,7 @@
 syntax = "proto3";
 
+
+
 package proto_stats_daemon;
 
 message ShareLog {
